@@ -1,0 +1,127 @@
+2025-06-23 11:39:02,718 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 11:39:03,829 - ERROR - Erro ao processar arquivo: 'utf-8' codec can't decode byte 0xa0 in position 62: invalid start byte
+2025-06-23 11:41:19,096 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 11:41:20,307 - INFO - Codificação detectada: ISO-8859-1 (confiança: 0.73)
+2025-06-23 11:41:20,346 - INFO - Arquivo processado com sucesso. Linhas processadas: 571
+2025-06-23 11:41:25,002 - INFO - Conectado ao Excel
+2025-06-23 11:41:28,126 - INFO - Dados copiados do Excel
+2025-06-23 11:41:38,214 - INFO - Conectado ao Excel
+2025-06-23 11:41:45,986 - ERROR - Erro ao colar dados: Handle 657210 is not a vaild window handle
+2025-06-23 11:41:47,032 - INFO - Processo Excel 12740 terminado
+2025-06-23 11:45:06,471 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 11:45:06,901 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 11:45:06,972 - INFO - Arquivo processado com sucesso. Linhas processadas: 568
+2025-06-23 11:45:11,549 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 11:45:11,754 - INFO - Aguardando Excel carregarcom título: CSVLDI01142675LDI[1]080929...
+2025-06-23 12:06:19,701 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 12:06:20,014 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 12:06:20,047 - INFO - Arquivo processado com sucesso. Linhas processadas: 565
+2025-06-23 12:06:20,097 - INFO - Processo Excel 1152 terminado
+2025-06-23 12:06:24,355 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 12:06:24,448 - ERROR - Erro ao abrir arquivo Excel: name 're' is not defined
+2025-06-23 12:07:11,816 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 12:07:12,120 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 12:07:12,158 - INFO - Arquivo processado com sucesso. Linhas processadas: 562
+2025-06-23 12:07:12,452 - INFO - Processo Excel 13972 terminado
+2025-06-23 12:07:16,457 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 12:07:16,552 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 12:07:19,554 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 12:07:22,732 - INFO - Excel aberto e responsivo
+2025-06-23 12:07:27,851 - WARNING - Não foi possível verificar área de transferência: Specified clipboard format is not available
+2025-06-23 12:07:27,852 - INFO - Dados copiados do Excel (não verificado)
+2025-06-23 12:07:41,914 - INFO - Abrindo arquivo: DB_Analise_Resultados455.xlsx
+2025-06-23 12:07:42,182 - INFO - Aguardando Excel carregarcom título: db_analise_resultados455...
+2025-06-23 12:07:50,417 - INFO - Conectado ao Excel: DB_Analise_Resultados455.xlsx - Excel
+2025-06-23 12:07:53,419 - INFO - Excel aberto e responsivo
+2025-06-23 12:07:57,509 - WARNING - Erro ao verificar área de transferência: Specified clipboard format is not available
+2025-06-23 12:08:00,552 - INFO - Dados colados na planilha
+2025-06-23 12:08:04,599 - INFO - Planilha salva
+2025-06-23 12:08:10,645 - INFO - Processo Excel 12748 terminado
+2025-06-23 12:08:12,647 - INFO - Processamento concluído com sucesso!
+2025-06-23 12:08:53,445 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 12:08:53,758 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 12:08:53,797 - INFO - Arquivo processado com sucesso. Linhas processadas: 559
+2025-06-23 12:08:58,101 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 12:08:58,191 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 12:09:01,203 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 12:09:04,378 - INFO - Excel aberto e responsivo
+2025-06-23 12:09:05,387 - ERROR - Erro ao copiar dados: 
+2025-06-23 13:17:44,774 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:17:45,084 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 13:17:45,130 - INFO - Arquivo processado com sucesso. Linhas processadas: 556
+2025-06-23 13:17:49,451 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:17:49,549 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 13:17:52,417 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 13:17:55,592 - INFO - Excel aberto e responsivo
+2025-06-23 13:18:01,600 - ERROR - Erro ao copiar dados: Handle 1377956 is not a vaild window handle
+2025-06-23 13:18:27,110 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:18:27,419 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 13:18:27,452 - INFO - Arquivo processado com sucesso. Linhas processadas: 553
+2025-06-23 13:18:31,778 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:18:31,870 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 13:18:34,845 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 13:18:37,847 - INFO - Excel aberto e responsivo
+2025-06-23 13:18:42,958 - WARNING - Não foi possível verificar área de transferência: Specified clipboard format is not available
+2025-06-23 13:18:42,959 - INFO - Dados copiados do Excel (não verificado)
+2025-06-23 13:20:39,604 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:20:39,907 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 13:20:39,940 - INFO - Arquivo processado com sucesso. Linhas processadas: 550
+2025-06-23 13:20:40,233 - INFO - Processo Excel 14656 terminado
+2025-06-23 13:20:44,243 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:20:44,338 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 13:20:47,302 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 13:20:50,476 - INFO - Excel aberto e responsivo
+2025-06-23 13:20:51,484 - ERROR - Erro ao copiar dados: 
+2025-06-23 13:25:35,561 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:25:35,852 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 13:25:35,886 - INFO - Arquivo processado com sucesso. Linhas processadas: 547
+2025-06-23 13:25:40,264 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:25:40,361 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 13:25:43,150 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 13:25:46,324 - INFO - Excel aberto e responsivo
+2025-06-23 13:25:47,331 - ERROR - Erro ao copiar dados: 
+2025-06-23 13:26:10,964 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:26:11,262 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 13:26:11,298 - INFO - Arquivo processado com sucesso. Linhas processadas: 544
+2025-06-23 13:26:15,648 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:26:15,745 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 13:26:18,722 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 13:26:21,725 - INFO - Excel aberto e responsivo
+2025-06-23 13:26:26,867 - INFO - Dados copiados do Excel com sucesso
+2025-06-23 13:26:33,085 - INFO - Processo Excel 1172 terminado
+2025-06-23 13:26:41,146 - INFO - Abrindo arquivo: DB_Analise_Resultados455.xlsx
+2025-06-23 13:26:41,358 - INFO - Aguardando Excel carregarcom título: db_analise_resultados455...
+2025-06-23 13:27:25,182 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:27:25,480 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 13:27:25,524 - INFO - Arquivo processado com sucesso. Linhas processadas: 541
+2025-06-23 13:27:29,864 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:27:29,962 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 13:27:32,901 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 13:27:35,903 - INFO - Excel aberto e responsivo
+2025-06-23 13:28:01,519 - INFO - Dados copiados do Excel com sucesso
+2025-06-23 13:28:07,746 - INFO - Processo Excel 1424 terminado
+2025-06-23 13:28:15,756 - INFO - Abrindo arquivo: DB_Analise_Resultados455.xlsx
+2025-06-23 13:28:15,886 - INFO - Aguardando Excel carregarcom título: db_analise_resultados455...
+2025-06-23 13:28:24,970 - INFO - Conectado ao Excel: DB_Analise_Resultados455.xlsx - Excel
+2025-06-23 13:28:27,973 - INFO - Excel aberto e responsivo
+2025-06-23 13:28:35,094 - INFO - Dados colados na planilha
+2025-06-23 13:28:39,134 - INFO - Planilha salva
+2025-06-23 13:28:45,181 - INFO - Processo Excel 10812 terminado
+2025-06-23 13:28:47,186 - INFO - Processamento concluído com sucesso!
+2025-06-23 13:32:12,474 - INFO - Último arquivo encontrado: I:\.shortcut-targets-by-id\1BbEijfOOPBwgJuz8LJhqn9OtOIAaEdeO\Logdi\Relatório e Dashboards\01.Análise de Resultados\download_relatorios\CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:32:12,767 - INFO - Codificação detectada: utf-8 (confiança: 0.99)
+2025-06-23 13:32:12,802 - INFO - Arquivo processado com sucesso. Linhas processadas: 538
+2025-06-23 13:32:17,105 - INFO - Abrindo arquivo: CSVLDI01142675LDI[1]080929.sswweb
+2025-06-23 13:32:17,201 - INFO - Aguardando Excel carregarcom título: ldi01142675ldi080929...
+2025-06-23 13:32:20,164 - INFO - Conectado ao Excel: ldi01142675ldi080929.csv - Excel
+2025-06-23 13:32:23,168 - INFO - Excel aberto e responsivo
+2025-06-23 13:32:28,335 - INFO - Dados copiados do Excel com sucesso
+2025-06-23 13:32:34,560 - INFO - Processo Excel 9084 terminado
+2025-06-23 13:32:42,575 - INFO - Abrindo arquivo: DB_Analise_Resultados455.xlsx
+2025-06-23 13:32:42,707 - INFO - Aguardando Excel carregarcom título: db_analise_resultados455...
+2025-06-23 13:32:50,659 - INFO - Conectado ao Excel: DB_Analise_Resultados455.xlsx - Excel
+2025-06-23 13:32:53,662 - INFO - Excel aberto e responsivo
+2025-06-23 13:33:00,783 - INFO - Dados colados na planilha
+2025-06-23 13:33:11,823 - INFO - Planilha salva
+2025-06-23 13:33:19,871 - INFO - Processamento concluído com sucesso!
+2025-06-23 17:10:19,898 - WARNING - The msedgedriver version (136.0.3240.50) detected in PATH at C:\Python313\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (137.0.3296.93); currently, msedgedriver 137.0.3296.93 is recommended for MicrosoftEdge 137.*, so it is advised to delete the driver in PATH and retry
