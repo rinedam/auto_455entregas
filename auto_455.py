@@ -89,7 +89,6 @@ def preencher_formulario(driver, data_inicio, data_fim, stop_event):
     driver.execute_script("arguments[0].value = '';", campo_data_fim)
     time.sleep(0.3)
     campo_data_fim.send_keys(data_fim)
-    # ... (o resto da função continua igual)
     time.sleep(1)
     driver.find_element(By.NAME, "f21").clear()
     time.sleep(0.3)
