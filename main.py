@@ -273,6 +273,9 @@ class App(ctk.CTk):
 
         sys.stdout = TextboxRedirector(self)
 
+        """Código feito para quando a tela for iniciada ela operar o sistema automaticamente"""
+        self.start_automation()
+
         self.log("Painel de controle iniciado. Pronto para receber comandos.")
         
         self.update_schedules()
